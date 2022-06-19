@@ -1,0 +1,13 @@
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/bin/Debug/netcoreapp3.1/QuestGame.deps.json
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/bin/Debug/netcoreapp3.1/QuestGame.runtimeconfig.json
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/bin/Debug/netcoreapp3.1/QuestGame.runtimeconfig.dev.json
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/bin/Debug/netcoreapp3.1/QuestGame.dll
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/bin/Debug/netcoreapp3.1/QuestGame.pdb
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/obj/Debug/netcoreapp3.1/QuestGame.csproj.AssemblyReference.cache
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/obj/Debug/netcoreapp3.1/QuestGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/obj/Debug/netcoreapp3.1/QuestGame.AssemblyInfoInputs.cache
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/obj/Debug/netcoreapp3.1/QuestGame.AssemblyInfo.cs
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/obj/Debug/netcoreapp3.1/QuestGame.csproj.CoreCompileInputs.cache
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/obj/Debug/netcoreapp3.1/QuestGame.dll
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/obj/Debug/netcoreapp3.1/QuestGame.pdb
+/Users/viktorlavrov/Projects/QuestGame/QuestGame/obj/Debug/netcoreapp3.1/QuestGame.genruntimeconfig.cache
